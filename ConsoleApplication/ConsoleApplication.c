@@ -20,7 +20,7 @@ int main()
     {
         mem[i] = i;
     }
-    printf("123");
+    printf("12345");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
